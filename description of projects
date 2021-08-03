@@ -1,0 +1,4 @@
+ML0 - Implementation of graphical metrics.
+ML1-Implementation of the method of potential functions, testing on the iris dataset.
+ML2-Comparison of the performance of all basic algorithms on the mnist dataset.
+ML3-Comparison of the work of boosting libraries at the Kaggle competition on predicting house prices. Before that, an analysis of the signs.
